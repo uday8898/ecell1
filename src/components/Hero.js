@@ -18,17 +18,17 @@ export const Hero = () => {
       <Swiper id="carouselExampleControls" className="carousel slide carousel-fade" data-bs-ride="carousel" data-interval="2000"
         loop={true} autoplay={{ delay: 2500 }} centeredSlides={true} modules={[Autoplay]}>
         <SwiperSlide style={{ backgroundColor: "#000000" }}>
-          <img className="d-block w-100" src="assets/images/front.jpg" alt="First slide" style={{ opacity: "0.4", width: "100%" }} />
+          <img className="d-block w-100" src="assets/images/frontpage1.jpg" alt="First slide" style={{ opacity: "0.4", width: "100%" }} />
         </SwiperSlide>
         <SwiperSlide style={{ backgroundColor: "#000000" }}>x
-          <img className="d-block w-100" src="assets/images/front2.jpg" alt="Second slide" style={{ opacity: "0.4", width: "100%" }} />
+          <img className="d-block w-100" src="assets/images/frontpage5.jpg" alt="Second slide" style={{ opacity: "0.4", width: "100%" }} />
         </SwiperSlide>
         <SwiperSlide style={{ backgroundColor: "#000000" }}>
-          <img className="d-block w-100" src="assets/images/front4.jpg" alt="Third slide"
+          <img className="d-block w-100" src="assets/images/frontpage6.jpg" alt="Third slide"
             style={{ opacity: "0.4", width: "100%" }} />
         </SwiperSlide>
         <SwiperSlide style={{ backgroundColor: "#000000" }}>
-          <img className="d-block w-100" src="assets/images/front3.jpg" alt="Third slide" style={{ opacity: "0.4", width: "100%" }} />
+          <img className="d-block w-100" src="assets/images/frontpage7.jpg" alt="Third slide" style={{ opacity: "0.4", width: "100%" }} />
         </SwiperSlide>
         <SwiperSlide style={{ backgroundColor: "#000000" }}>
           <img className="d-block w-100" src="assets/images/frontpage2.jpg" alt="Third slide" style={{ opacity: "0.4", width: "100%" }} />
