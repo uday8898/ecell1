@@ -9,7 +9,7 @@ export const Mentors = () => {
 
         <div className="row">
 
-          <div className="col-lg-3 col-md-6 d-flex align-items-stretch">
+          <div className="col-lg-3 col-md-6 d-flex align-items-stretch justify-content-center">
             <div className="member" data-aos="fade-up" data-aos-delay="100">
               <div className="member-img">
                 <img src="assets/images/PJSir255-01.jpg" className="img-fluid" alt=""/>
@@ -26,7 +26,7 @@ export const Mentors = () => {
             </div>
           </div>
 
-          <div className="col-lg-3 col-md-6 d-flex align-items-stretch">
+          <div className="col-lg-3 col-md-6 d-flex align-items-stretch justify-content-center">
             <div className="member" data-aos="fade-up" data-aos-delay="200">
               <div className="member-img">
                 <img src="assets/images/AnoopSir255-01.jpg" className="img-fluid" alt=""/>
@@ -43,7 +43,7 @@ export const Mentors = () => {
             </div>
           </div>
 
-          <div className="col-lg-3 col-md-6 d-flex align-items-stretch">
+          <div className="col-lg-3 col-md-6 d-flex align-items-stretch justify-content-center">
             <div className="member" data-aos="fade-up" data-aos-delay="300">
               <div className="member-img">
                 <img src="assets/images/RaviSir255-01.jpg" className="img-fluid" alt=""/>
@@ -59,7 +59,7 @@ export const Mentors = () => {
             </div>
           </div>
 
-          <div className="col-lg-3 col-md-6 d-flex align-items-stretch">
+          <div className="col-lg-3 col-md-6 d-flex align-items-stretch justify-content-center">
             <div className="member" data-aos="fade-up" data-aos-delay="400">
               <div className="member-img">
                 <img src="assets/images/StudentCouncil/9.0/Abhishek Sir.png" className="img-fluid" alt=""/>

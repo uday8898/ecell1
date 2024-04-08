@@ -37,22 +37,22 @@ export const Tabs = () => {
                 <ul className="nav nav-tabs row d-flex">
                     <li className="nav-item col-3">
                         <a className="nav-link active show" data-bs-toggle="tab" data-bs-target="tab-1">
-                            <h4 className="d-none d-lg-block">Members</h4>
+                            <h4 className="d-lg-block">Members</h4>
                         </a>
                     </li>
                     <li className="nav-item col-3">
                         <a className="nav-link" data-bs-toggle="tab" data-bs-target="tab-2">
-                            <h4 className="d-none d-lg-block">Events</h4>
+                            <h4 className="d-lg-block">Events</h4>
                         </a>
                     </li>
                     <li className="nav-item col-3">
                         <a className="nav-link" data-bs-toggle="tab" data-bs-target="tab-3">
-                            <h4 className="d-none d-lg-block">Talks</h4>
+                            <h4 className="d-lg-block">Talks</h4>
                         </a>
                     </li>
                     <li className="nav-item col-3">
                         <a className="nav-link" data-bs-toggle="tab" data-bs-target="tab-4">
-                            <h4 className="d-none d-lg-block" style={{ paddingRight: "40px" }}>StartUps</h4>
+                            <h4 className="d-lg-block" >StartUps</h4>
                         </a>
                     </li>
                 </ul>
@@ -71,7 +71,7 @@ export const Tabs = () => {
 
                             </div>
                             <div className="col-lg-6 order-1 order-lg-2 text-center" data-aos="fade-up" data-aos-delay="200">
-                                <img src="assets/images/Team.jpg" alt="" className="img-fluid" />
+                                <img src="assets/images/Team.JPG" alt="" className="img-fluid" />
                             </div>
                         </div>
                     </div>
@@ -90,7 +90,7 @@ export const Tabs = () => {
 
                             </div>
                             <div className="col-lg-6 order-1 order-lg-2 text-center">
-                                <img src="assets/images/event.jpg" alt="" className="img-fluid" />
+                                <img src="assets/images/event.JPG" alt="" className="img-fluid" />
                             </div>
                         </div>
                     </div>
@@ -104,7 +104,7 @@ export const Tabs = () => {
                                 </p>
                             </div>
                             <div className="col-lg-6 order-1 order-lg-2 text-center">
-                                <img src="assets/images/talk.jpg" alt="" className="img-fluid" />
+                                <img src="assets/images/talk.JPG" alt="" className="img-fluid" />
                             </div>
                         </div>
                     </div>

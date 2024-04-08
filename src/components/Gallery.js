@@ -15,10 +15,10 @@ export const Gallery = () => {
 
                     <div className="col-lg-4 col-md-6 portfolio-item filter-app">
                         <div className="portfolio-wrap">
-                            <img src="assets/images/gallery/127.jpg" className="img-fluid" alt="" />
+                            <img src="assets/images/gallery/246.JPG" className="img-fluid" alt="" />
                             <div className="portfolio-info">
                                 <div className="portfolio-links">
-                                    <a href="assets/images/gallery/127.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox"><i
+                                    <a href="assets/images/gallery/127.JPG" data-gallery="portfolioGallery" className="portfolio-lightbox"><i
                                         className="bx bx-plus"></i></a>
                                 </div>
                             </div>
@@ -40,7 +40,7 @@ export const Gallery = () => {
 
                     <div className="col-lg-4 col-md-6 portfolio-item filter-app">
                         <div className="portfolio-wrap">
-                            <img src="assets/images/gallery/173.JPG" className="img-fluid" alt="" />
+                            <img src="assets/images/gallery/247.JPG" className="img-fluid" alt="" />
                             <div className="portfolio-info">
 
                                 <div className="portfolio-links">
@@ -54,11 +54,11 @@ export const Gallery = () => {
 
                     <div className="col-lg-4 col-md-6 portfolio-item filter-card">
                         <div className="portfolio-wrap">
-                            <img src="assets/images/gallery/268.png" className="img-fluid" alt="" />
+                            <img src="assets/images/gallery/210.JPG" className="img-fluid" alt="" />
                             <div className="portfolio-info">
 
                                 <div className="portfolio-links">
-                                    <a href="assets/images/gallery/268.png" data-gallery="portfolioGallery" className="portfolio-lightbox"><i
+                                    <a href="assets/images/gallery/210.JPG" data-gallery="portfolioGallery" className="portfolio-lightbox"><i
                                         className="bx bx-plus"></i></a>
 
                                 </div>
@@ -68,11 +68,11 @@ export const Gallery = () => {
 
                     <div className="col-lg-4 col-md-6 portfolio-item filter-web">
                         <div className="portfolio-wrap">
-                            <img src="assets/images/gallery/220.jpeg" className="img-fluid" alt="" />
+                            <img src="assets/images/gallery/222.JPG" className="img-fluid" alt="" />
                             <div className="portfolio-info">
 
                                 <div className="portfolio-links">
-                                    <a href="assets/images/gallery/220.jpeg" data-gallery="portfolioGallery" className="portfolio-lightbox"><i
+                                    <a href="assets/images/gallery/222.JPG" data-gallery="portfolioGallery" className="portfolio-lightbox"><i
                                         className="bx bx-plus"></i></a>
 
                                 </div>
@@ -82,11 +82,11 @@ export const Gallery = () => {
 
                     <div className="col-lg-4 col-md-6 portfolio-item filter-app">
                         <div className="portfolio-wrap">
-                            <img src="assets/images/gallery/206.jpg" className="img-fluid" alt="" />
+                            <img src="assets/images/gallery/206.JPG" className="img-fluid" alt="" />
                             <div className="portfolio-info">
 
                                 <div className="portfolio-links">
-                                    <a href="assets/images/gallery/207.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox"><i
+                                    <a href="assets/images/gallery/206.JPG" data-gallery="portfolioGallery" className="portfolio-lightbox"><i
                                         className="bx bx-plus"></i></a>
 
                                 </div>
@@ -96,11 +96,11 @@ export const Gallery = () => {
 
                     <div className="col-lg-4 col-md-6 portfolio-item filter-card">
                         <div className="portfolio-wrap">
-                            <img src="assets/images/gallery/90.jpg" className="img-fluid" alt="" />
+                            <img src="assets/images/gallery/90.JPG" className="img-fluid" alt="" />
                             <div className="portfolio-info">
 
                                 <div className="portfolio-links">
-                                    <a href="assets/images/gallery/90.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox"><i
+                                    <a href="assets/images/gallery/90.JPG" data-gallery="portfolioGallery" className="portfolio-lightbox"><i
                                         className="bx bx-plus"></i></a>
 
                                 </div>
@@ -110,11 +110,11 @@ export const Gallery = () => {
 
                     <div className="col-lg-4 col-md-6 portfolio-item filter-card">
                         <div className="portfolio-wrap">
-                            <img src="assets/images/gallery/67.jpg" className="img-fluid" alt="" />
+                            <img src="assets/images/gallery/67.JPG" className="img-fluid" alt="" />
                             <div className="portfolio-info">
 
                                 <div className="portfolio-links">
-                                        <a href="assets/images/gallery/67.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox"><i
+                                        <a href="assets/images/gallery/67.JPG" data-gallery="portfolioGallery" className="portfolio-lightbox"><i
                                         className="bx bx-plus"></i></a>
 
                                 </div>

@@ -15,7 +15,7 @@ export const Hero = () => {
           <h1>GLA University, Mathura</h1>
         </div>
       </div>
-      <Swiper id="carouselExampleControls" className="carousel slide carousel-fade" data-bs-ride="carousel" data-interval="2000"
+      <Swiper id="carouselExampleControls" className="carousel slide carousel-fade" style={{height: "100vh"}} data-bs-ride="carousel" data-interval="2000"
         loop={true} autoplay={{ delay: 2500 }} centeredSlides={true} modules={[Autoplay]}>
         <SwiperSlide style={{ backgroundColor: "#000000" }}>
           <img className="d-block w-100" src="assets/images/frontpage1.JPG" alt="First slide" style={{ opacity: "0.4", width: "100%" }} />
