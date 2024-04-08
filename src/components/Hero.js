@@ -34,7 +34,7 @@ export const Hero = () => {
           <img className="d-block w-100" src="assets/images/frontpage2.jpg" alt="Third slide" style={{ opacity: "0.4", width: "100%" }} />
         </SwiperSlide>
         <SwiperSlide style={{ backgroundColor: "#000000" }}>
-          <img className="d-block w-100" src="assets/images/frontpage3.JPG" alt="Third slide" style={{ opacity: "0.4", width: "100%" }} />
+          <img className="d-block w-100" src="assets/images/frontpage3.jpg" alt="Third slide" style={{ opacity: "0.4", width: "100%" }} />
         </SwiperSlide>
         <SwiperSlide style={{ backgroundColor: "#000000" }}>
           <img className="d-block w-100" src="assets/images/frontpage4.jpeg" alt="Third slide" style={{ opacity: "0.4", width: "100%" }} />
