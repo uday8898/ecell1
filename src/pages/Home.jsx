@@ -10,6 +10,7 @@ import { Team } from '../components/Team';
 import { Services } from '../components/Services';
 import { Tabs } from '../components/Tabs';
 import { Testimonials } from '../components/Testimonials';
+import { useEffect } from 'react';
 
 
 export const Home = () =>{

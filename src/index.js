@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import 'bootstrap/dist/css/bootstrap.css';
@@ -33,9 +33,35 @@ const router = createBrowserRouter([
   },
 ]);
 
+const Root = () => {
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    const timeout = setTimeout(() => {
+      setLoading(false);
+    }, 2000); 
+
+    return () => clearTimeout(timeout);
+  }, []);
+
+  return (
+    <React.StrictMode>
+      {loading ? (
+        <div className='loader-container'>
+          <span style={{display: "block"}} className="loader">
+            <img alt='preloader' src='assets/images/logoorange.png' />
+          </span>
+        </div>
+      ) : (
+        <RouterProvider router={router} />
+      )}
+    </React.StrictMode>
+  );
+};
+
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
+
 root.render(
-  <React.StrictMode>
-    <RouterProvider router={router} />
-  </React.StrictMode>
+  <Root />
 );
