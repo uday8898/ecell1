@@ -27,7 +27,15 @@ const router = createBrowserRouter([
     children: [
       { path: '/', element: <Home /> },
       { path: '/gallery', element: <Gallery /> },
-      { path: '/councils', element: <TeamCouncil /> },
+      {
+        path: '/councils', element: <TeamCouncil />,
+        loader: async ({ request, params }) => {
+          return fetch(
+            `assets/data/team.json`
+          );
+        }
+
+      },
     ],
     // errorElement: <NotFound />
   },
@@ -39,7 +47,7 @@ const Root = () => {
   useEffect(() => {
     const timeout = setTimeout(() => {
       setLoading(false);
-    }, 2000); 
+    }, 2000);
 
     return () => clearTimeout(timeout);
   }, []);
@@ -48,7 +56,7 @@ const Root = () => {
     <React.StrictMode>
       {loading ? (
         <div className='loader-container'>
-          <span style={{display: "block"}} className="loader">
+          <span style={{ display: "block" }} className="loader">
             <img alt='preloader' src='assets/images/logoorange.png' />
           </span>
         </div>

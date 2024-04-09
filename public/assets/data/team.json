@@ -1,0 +1,739 @@
+{
+    "1.0": [
+        {
+            "name": "Mohit Divyansh Tripathi",
+            "rank": "President",
+            "imgUrl": "assets/images/StudentCouncil/1.0/Mohit Divyansh Tripathi-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/mohit-tripathi-7a98746b/"
+        },
+        {
+            "name": "Ravi Shankar Dubey",
+            "rank": "Head, Data Analysis",
+            "imgUrl": "assets/images/StudentCouncil/1.0/Ravi Shankar Dubey-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/rsdubey/"
+        },
+        {
+            "name": "Aayush Singhal",
+            "rank": "Head, Corporate Relations",
+            "imgUrl": "assets/images/StudentCouncil/1.0/Aayush Singhal-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/aayushsinghal24/"
+        },
+        {
+            "name": "Prankur Chaturvedi",
+            "rank": "Head, Event Management",
+            "imgUrl": "assets/images/StudentCouncil/1.0/Prankur Chaturvedi-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/prankur/"
+        },
+        {
+            "name": "Siddhant Agrawal",
+            "rank": "Head, Finance",
+            "imgUrl": "assets/images/StudentCouncil/1.0/Siddhant Agrawal-01.png"
+        },
+        {
+            "name": "Anindya Singh",
+            "rank": "Head, Media and Publicity",
+            "imgUrl": "assets/images/StudentCouncil/1.0/Anindya Singh-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/anindyasingh/"
+        },
+        {
+            "name": "Dhruv Dhingra",
+            "rank": "Head, Design And Development",
+            "imgUrl": "assets/images/StudentCouncil/1.0/Dhruv Dhingra-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/dhruv-dhingra-a7502067/"
+        },
+        {
+            "name": "Amit Mishra",
+            "rank": "Head, Campus Affairs",
+            "imgUrl": "assets/images/StudentCouncil/1.0/Amit Mishra-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/amit-mishra-1b7610103/"
+        }
+    ],
+    "2.0": [
+        {
+            "name": "Prankur Chaturvedi",
+            "rank": "President",
+            "imgUrl": "assets/images/StudentCouncil/2.0/Prankur Chaturvedi-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/prankur"
+        },
+        {
+            "name": "Jay Kattyayan",
+            "rank": "Vice President",
+            "imgUrl": "assets/images/StudentCouncil/2.0/Jay Kattyayan-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/jay-kattyayan"
+        },
+        {
+            "name": "Parth Dutt",
+            "rank": "Head, Corporate Relations",
+            "imgUrl": "assets/images/StudentCouncil/2.0/Parth Dutt-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/parth-dutt-38b793167"
+        },
+        {
+            "name": "Karan Bhardwaj",
+            "rank": "Head, Event Management",
+            "imgUrl": "assets/images/StudentCouncil/2.0/Karan Bhardwaj-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/karanbhardwaj619"
+        },
+        {
+            "name": "Bhavya Hardasani",
+            "rank": "Head, Finance & Hospitality",
+            "imgUrl": "assets/images/StudentCouncil/2.0/Bhavya Hardasani-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/bhavya-hardasani-937153118"
+        },
+        {
+            "name": "Amit Mishra",
+            "rank": "Head, Media and Publicity",
+            "imgUrl": "assets/images/StudentCouncil/2.0/Amit Mishra-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/amit-mishra-1b7610103"
+        },
+        {
+            "name": "Akansha Verma",
+            "rank": "Head, Design And Development",
+            "imgUrl": "assets/images/StudentCouncil/2.0/Akansha Verma-01.png",
+            "linkedinUrl": "#"
+        },
+        {
+            "name": "Siddhartha Bajpai",
+            "rank": "Head, Campus Affairs",
+            "imgUrl": "assets/images/StudentCouncil/2.0/Siddhartha Bajpai-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/sid95"
+        },
+        {
+            "name": "Akshay Srivastava",
+            "rank": "Head, Web Design & Tech Support",
+            "linkedinUrl": "https://www.linkedin.com/in/akshay-srivastava-28803bb5",
+            "imgUrl": "assets/images/StudentCouncil/2.0/Akshay Srivastava-01.png"
+        },
+        {
+            "name": "Anindya Singh",
+            "rank": "Head, Data Analysis & Logistics Management",
+            "linkedinUrl": "https://www.linkedin.com/in/anindyasingh",
+            "imgUrl": "assets/images/StudentCouncil/2.0/Anindya Singh-01.png"
+        }
+    ],
+    "3.0": [
+        {
+            "name": "Siddhartha Bajpai",
+            "rank": "President",
+            "imgUrl": "assets/images/StudentCouncil/3.0/Siddhartha Bajpai-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/sid95/"
+        },
+        {
+            "name": "Pranao Sinha",
+            "rank": "Vice President",
+            "imgUrl": "assets/images/StudentCouncil/3.0/Pranao Sinha-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/pranao/"
+        },
+        {
+            "name": "Ashay Vishnoi",
+            "rank": "Head, Corporate Relations",
+            "imgUrl": "assets/images/StudentCouncil/3.0/Ashay Vishnoi-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/ashay-vishnoi/"
+        },
+        {
+            "name": "Sharad Pal",
+            "rank": "Head, Event Management",
+            "imgUrl": "assets/images/StudentCouncil/3.0/Sharad Pal-01.png",
+            "linkedinUrl": "#"
+        },
+        {
+            "name": "Nirmal Kumar",
+            "rank": "Head, Finance",
+            "imgUrl": "assets/images/StudentCouncil/3.0/Nirmal Kumar-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/nknirmal/"
+        },
+        {
+            "name": "Shivam Tureha",
+            "rank": "Head, Publicity and Promotions",
+            "imgUrl": "assets/images/StudentCouncil/3.0/Shivam Tureha-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/shivam0000"
+        },
+        {
+            "name": "Rishabh Srivastava",
+            "rank": "Head, Design And Development",
+            "imgUrl": "assets/images/StudentCouncil/3.0/Rishabh Srivastava-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/rishabhsrivastava0205"
+        },
+        {
+            "name": "Prashun Dalmia",
+            "rank": "Head, Web Development",
+            "imgUrl": "assets/images/StudentCouncil/3.0/Prashun Dalmia-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/prashun-dalmia"
+        },
+        {
+            "name": "Mritunjay Singh",
+            "rank": "Head, Start-Up Management",
+            "linkedinUrl": "https://www.linkedin.com/in/mritunjay-singh-y",
+            "imgUrl": "assets/images/StudentCouncil/3.0/Mritunjay Singh-01.png"
+        },
+        {
+            "name": "Sagar Gupta",
+            "rank": "Head, Data Analysis",
+            "linkedinUrl": "https://www.linkedin.com/in/sagav-gupta",
+            "imgUrl": "assets/images/StudentCouncil/3.0/Sagar Gupta-01.png"
+        }
+    ],
+    "4.0": [
+        {
+            "name": "Sagar Gupta",
+            "rank": "President",
+            "imgUrl": "assets/images/StudentCouncil/4.0/Sagar Gupta-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/sagav-gupta"
+        },
+        {
+            "name": "Nihit Jain",
+            "rank": "Head, Data Analysis",
+            "imgUrl": "assets/images/StudentCouncil/4.0/Nihit Jain-01.png",
+            "linkedinUrl": "#"
+        },
+        {
+            "name": "Ashay Vishnoi",
+            "rank": "Head, Corporate Relations",
+            "imgUrl": "assets/images/StudentCouncil/4.0/Ashay Vishnoi-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/ashay-vishnoi"
+        },
+        {
+            "name": "Shubham Ratani",
+            "rank": "Head, Hospitality",
+            "imgUrl": "assets/images/StudentCouncil/4.0/Shubham Ratani-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/shubham-ratani-76baa5131"
+        },
+        {
+            "name": "Krishan Agrawal",
+            "rank": "Head, Finance",
+            "imgUrl": "assets/images/StudentCouncil/4.0/Krishan Agrawal-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/krishanag98"
+        },
+        {
+            "name": "Nakul Kaushal",
+            "rank": "Head, Public Relations",
+            "imgUrl": "assets/images/StudentCouncil/4.0/Nakul Kaushal-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/nakulkaushal"
+        },
+        {
+            "name": "Nilesh Singh",
+            "rank": "Head, Operations",
+            "imgUrl": "assets/images/StudentCouncil/4.0/Nilesh Singh-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/nilesh97"
+        }
+    ],
+    "5.0": [
+        {
+            "name": "Sankalp Chaturvedi",
+            "rank": "President",
+            "imgUrl": "assets/images/StudentCouncil/5.0/Sankalp Chaturvedi-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/sankalp-chaturvedi-7002514b"
+        },
+        {
+            "name": "Kashish Sahu",
+            "rank": "General Secretary",
+            "imgUrl": "assets/images/StudentCouncil/5.0/Kashish Sahu-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/kashish-sahu-07b240163"
+        },
+        {
+            "name": "Shubhangi Singh",
+            "rank": "Head, Corporate Relations",
+            "imgUrl": "assets/images/StudentCouncil/5.0/Shubhangi Singh-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/singhshubhangi"
+        },
+        {
+            "name": "Adesh Chauhan",
+            "rank": "Head, Design",
+            "imgUrl": "assets/images/StudentCouncil/5.0/Adesh Chauhan-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/adesh-chauhan"
+        },
+        {
+            "name": "Ayush Gupta",
+            "rank": "Head, Finance",
+            "imgUrl": "assets/images/StudentCouncil/5.0/Ayush Gupta-01.png",
+            "linkedinUrl": "http://linkedin.com/in/ayush-gupta-200907172"
+        },
+        {
+            "name": "Riya Narain",
+            "rank": "Head, Public Relations",
+            "imgUrl": "assets/images/StudentCouncil/5.0/Riya Narain-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/98rs13"
+        },
+        {
+            "name": "Mayank Gupta",
+            "rank": "Head, Technical",
+            "imgUrl": "assets/images/StudentCouncil/5.0/Mayank Gupta-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/mayank-gupta-430259188"
+        },
+        {
+            "name": "Gitansh Sehgal",
+            "rank": "Head, Marketing & Sponsership",
+            "imgUrl": "assets/images/StudentCouncil/5.0/Gitansh Sehgal-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/gitansh-sehgal-23264a166/"
+        },
+        {
+            "name": "Animesh Raghuvanshi",
+            "rank": "Head, Content Curation & Editorial",
+            "linkedinUrl": "https://www.linkedin.com/in/animesh-raghuvanshi-b16846178",
+            "imgUrl": "assets/images/StudentCouncil/5.0/Animesh Raghuvanshi-01.png"
+        },
+        {
+            "name": "Vishesh Agarwal",
+            "rank": "Associate Head, Operations",
+            "linkedinUrl": "https://www.linkedin.com/in/vishesh-a-123790119",
+            "imgUrl": "assets/images/StudentCouncil/5.0/Vishesh Agarwal-01.png"
+        },
+        {
+            "name": "Jai Narayan Jain",
+            "rank": "Head, Reasearch & Data Informatics",
+            "linkedinUrl": "https://www.linkedin.com/in/jai-narayan-jain-308a4b175",
+            "imgUrl": "assets/images/StudentCouncil/5.0/Jai Narayan Jain-01.png"
+        }
+    ],
+    "6.0": [
+        {
+            "name": "Naman Gandhi",
+            "rank": "President",
+            "imgUrl": "assets/images/StudentCouncil/6.0/Naman-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/gandhinaman"
+        },
+        {
+            "name": "Jaideep Lalchandani",
+            "rank": "VP, Marketing",
+            "imgUrl": "assets/images/StudentCouncil/6.0/Jaideep-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/jai12/"
+        },
+        {
+            "name": "Deeksha Valecha",
+            "rank": "VP, Incubation",
+            "imgUrl": "assets/images/StudentCouncil/6.0/Deeksha-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/deeksha-valecha-1931b4176/"
+        },
+        {
+            "name": "Shailja Tripathi",
+            "rank": "Head, Finance",
+            "imgUrl": "assets/images/StudentCouncil/6.0/Shailja-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/shailja-tripathi-104168177/"
+        },
+        {
+            "name": "Shivansh Mishra",
+            "rank": "Associate Head, Investor Relations",
+            "linkedinUrl": "https://www.linkedin.com/in/shivansh-mishra/",
+            "imgUrl": "assets/images/StudentCouncil/6.0/Shivansh-01.png"
+        },
+        {
+            "name": "Alok K. Ojha",
+            "rank": "Head, Events & Logistics",
+            "linkedinUrl": "https://www.linkedin.com/in/alok-kumar-ojha-450247176/",
+            "imgUrl": "assets/images/StudentCouncil/6.0/Alok-01.png"
+        },
+        {
+            "name": "Ashish Ranjan",
+            "rank": "Associate Head, Events & Logistics",
+            "linkedinUrl": "https://www.linkedin.com/in/ashish-ranjan-kumar-72213a185/",
+            "imgUrl": "assets/images/StudentCouncil/6.0/Ashish.png"
+        },
+        {
+            "name": "Niharika Singh",
+            "rank": "Executive Head, Events & Logistics",
+            "linkedinUrl": "https://www.linkedin.com/in/niharika-singh-33549220b/",
+            "imgUrl": "assets/images/StudentCouncil/6.0/Niharika-01.png"
+        },
+        {
+            "name": "Devansh Katare",
+            "rank": "Executive Head, Events & Logistics",
+            "linkedinUrl": "#",
+            "imgUrl": "assets/images/StudentCouncil/6.0/Devansh-01.png"
+        },
+        {
+            "name": "Pawan Gupta",
+            "rank": "Head, Student Relations",
+            "linkedinUrl": "https://www.linkedin.com/in/mrpawan-gupta/",
+            "imgUrl": "assets/images/StudentCouncil/6.0/Pawan-01.png"
+        },
+        {
+            "name": "Ayush Kumar",
+            "rank": "Associate Head, Student Relations",
+            "linkedinUrl": "https://www.linkedin.com/in/ayush-kumar-a03815211/",
+            "imgUrl": "assets/images/StudentCouncil/6.0/Ayush-01.png"
+        },
+        {
+            "name": "Aman Singh",
+            "rank": "Associate Head, Student Relations",
+            "linkedinUrl": "https://www.linkedin.com/in/aman-kumar-6a2b211b1/",
+            "imgUrl": "assets/images/StudentCouncil/6.0/Aman-01.png"
+        },
+        {
+            "name": "Bhumika Sharma",
+            "rank": "Head, Data Analysis & MIS",
+            "linkedinUrl": "https://www.linkedin.com/in/bhumika-sharma-835675179/",
+            "imgUrl": "assets/images/StudentCouncil/6.0/Bhumika.png"
+        },
+        {
+            "name": "Akhil Dubey",
+            "rank": "Associate Head, Data Analysis & MIS",
+            "linkedinUrl": "https://www.linkedin.com/in/akhil-dubey-a60514198/",
+            "imgUrl": "assets/images/StudentCouncil/6.0/Akhil-01.png"
+        },
+        {
+            "name": "Varzika Tiwari",
+            "rank": "Head, Corporate Relations",
+            "linkedinUrl": "https://www.linkedin.com/in/varzikatiwari08/",
+            "imgUrl": "assets/images/StudentCouncil/6.0/Varzika-01.png"
+        },
+        {
+            "name": "Gaurang Khanna",
+            "rank": "Associate Head, Corporate Relations",
+            "linkedinUrl": "https://www.linkedin.com/in/gaurangk30/",
+            "imgUrl": "assets/images/StudentCouncil/6.0/Gaurang-01.png"
+        },
+        {
+            "name": "Shipra Sharma",
+            "rank": "Head, Media & Publicity",
+            "linkedinUrl": "https://www.linkedin.com/in/shipra-sharma-8b8801150/",
+            "imgUrl": "assets/images/StudentCouncil/6.0/Shipra-01.png"
+        },
+        {
+            "name": "Deeksha Bhadouria",
+            "rank": "Associate Head, Media & Publicity",
+            "linkedinUrl": "https://www.linkedin.com/in/deeksha-singh1511/",
+            "imgUrl": "assets/images/StudentCouncil/6.0/Deeksha Badhauria-01.png"
+        },
+        {
+            "name": "Shiv Bhadouria",
+            "rank": "Head, Design & IT",
+            "linkedinUrl": "https://www.linkedin.com/in/shiv-bhadouria-53545017a/",
+            "imgUrl": "assets/images/StudentCouncil/6.0/Shiv-01.png"
+        },
+        {
+            "name": "Anurag Tripathi",
+            "rank": "Associate Head, Design & IT",
+            "linkedinUrl": "https://www.linkedin.com/in/anurag-tripathi-762263172/",
+            "imgUrl": "assets/images/StudentCouncil/6.0/Anurag-01.png"
+        },
+        {
+            "name": "Veer Prakash",
+            "rank": "Associate Head, Design & IT",
+            "linkedinUrl": "https://www.linkedin.com/in/veer-prakash-8b3a431b2/",
+            "imgUrl": "assets/images/StudentCouncil/6.0/Veer-01.png"
+        },
+        {
+            "name": "Utkarsh Shakya",
+            "rank": "Executive Head, Design & IT",
+            "linkedinUrl": "https://www.linkedin.com/in/utkarsh-shakya/",
+            "imgUrl": "assets/images/StudentCouncil/6.0/Utkarsh-01.png"
+        },
+        {
+            "name": "Rudra Pratap Singh",
+            "rank": "Head, Incubatee Relations",
+            "linkedinUrl": "https://www.linkedin.com/in/rudrapratapsingh18/",
+            "imgUrl": "assets/images/StudentCouncil/6.0/Rudra Pratap-01.png"
+        }
+    ],
+    "7.0": [
+        {
+            "name": "Alok K. Ojha",
+            "rank": "President & VP, Operations",
+            "imgUrl": "assets/images/StudentCouncil/7.0/Alok-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/gandhinaman",
+            "instagramUrl": "https://www.instagram.com/______.ojha.______/"
+        },
+        {
+            "name": "Gaurang Khanna",
+            "rank": "Co-President & VP, Marketing",
+            "imgUrl": "assets/images/StudentCouncil/7.0/Gaurang-01.png",
+            "linkedinUrl": "http://linkedin.com/in/gaurangk30",
+            "instagramUrl": "https://www.instagram.com/__.gaurang.__/"
+        },
+        {
+            "name": "Muskan Bansal",
+            "rank": "VP, Incubation",
+            "imgUrl": "assets/images/StudentCouncil/7.0/Muskan-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/muskan-bansal-9047551b2",
+            "instagramUrl": "https://instagram.com/muskan8850?utm_medium=copy_link"
+        },
+        {
+            "name": "Pratima Singh",
+            "rank": "Head, Finance",
+            "imgUrl": "assets/images/StudentCouncil/7.0/Pratima-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/pratima-singh-48713b155",
+            "instagramUrl": "https://www.instagram.com/pratima.singh2896"
+        },
+        {
+            "name": "Keshav Shakti Singh",
+            "rank": "Head, Investor Networking",
+            "imgUrl": "assets/images/StudentCouncil/7.0/Keshav-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/amit-mishra-1b7610103/",
+            "instagramUrl": "https://instagram.com/muskan8850?utm_medium=copy_link"
+        },
+        {
+            "name": "Yashkant Bajpai",
+            "rank": "Head, Events & Logistics",
+            "imgUrl": "assets/images/StudentCouncil/7.0/Yahskant-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/keshav-shakti-singh-83a462201",
+            "instagramUrl": "https://www.instagram.com/ikeshavshakti/"
+        },
+        {
+            "name": "Ishan Joshi",
+            "rank": "Co-Head, Events & Logistics",
+            "imgUrl": "assets/images/StudentCouncil/7.0/Ishan-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/ishan-joshi-432093212",
+            "instagramUrl": "https://instagram.com/_ishan_702_?utm_medium=copy_link"
+        },
+        {
+            "name": "Pragya Singh",
+            "rank": "Associate Head, Events & Logistics",
+            "imgUrl": "assets/images/StudentCouncil/7.0/Pragya-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/pragya-singh-6a7235206",
+            "instagramUrl": "https://www.instagram.com/_.pragya_singh._/"
+        },
+        {
+            "name": "Abhishek Chaubey",
+            "rank": "Head, Student Relations",
+            "linkedinUrl": "https://www.linkedin.com/in/abhishek-choubey-669290199",
+            "instagramUrl": "https://www.instagram.com/invites/contact/?i=swe995updvmv&utm_content=fq1ztdz",
+            "imgUrl": "assets/images/StudentCouncil/7.0/Abhishek-01.png"
+        },
+        {
+            "name": "Srashti Gautam",
+            "rank": "Associate Head, Student Relations",
+            "linkedinUrl": "https://www.linkedin.com/in/srashti-gautam-567a75192",
+            "instagramUrl": "https://instagram.com/srashtiiii?utm_medium=copy_link",
+            "imgUrl": "assets/images/StudentCouncil/7.0/Srishti.png"
+        },
+        {
+            "name": "Akhil Dubey",
+            "rank": "Head, Data Analyst & Event Reporting",
+            "linkedinUrl": "https://www.linkedin.com/in/akhil-dubey-a60514198",
+            "instagramUrl": "https://www.instagram.com/akhil__dubey__1004/",
+            "imgUrl": "assets/images/StudentCouncil/7.0/Akhil-01.png"
+        },
+        {
+            "name": "Anushka Singh Rathore",
+            "rank": "Co-Head, Data Analyst & Event Reporting",
+            "linkedinUrl": "https://www.linkedin.com/in/anushka-singh-rathore-871746204",
+            "instagramUrl": "https://instagram.com/_anushka.s_rathore?utm_medium=copy_link",
+            "imgUrl": "assets/images/StudentCouncil/7.0/X-01.png"
+        },
+        {
+            "name": "Samarth Srivastava",
+            "rank": "Head, Corporate Relations",
+            "linkedinUrl": "https://www.linkedin.com/in/samarth-srivastava-b002981b6/",
+            "instagramUrl": "https://www.instagram.com/inkofsam/",
+            "imgUrl": "assets/images/StudentCouncil/7.0/Samarth-01.png"
+        },
+        {
+            "name": "Sunishka Sharma",
+            "rank": "Associate Head, Corporate Relations",
+            "linkedinUrl": "https://www.linkedin.com/in/sunishka-sharma-b09768209/",
+            "instagramUrl": "https://www.instagram.com/sharma_sunishka/",
+            "imgUrl": "assets/images/StudentCouncil/7.0/Sunishka1.png"
+        },
+        {
+            "name": "Ayushi Dixit",
+            "rank": "Head, Media & Publicity",
+            "linkedinUrl": "https://www.linkedin.com/in/ayushi-dixit-51b4401b9",
+            "instagramUrl": "https://instagram.com/__.ayushii.09__?utm_medium=copy_link",
+            "imgUrl": "assets/images/StudentCouncil/7.0/Ayushi-01.png"
+        },
+        {
+            "name": "Vibhor Sharma",
+            "rank": "Associate Head, Media & Publicity",
+            "linkedinUrl": "https://www.linkedin.com/in/thevibhorsharma",
+            "instagramUrl": "https://instagram.com/lilvibss?utm_medium=copy_link",
+            "imgUrl": "assets/images/StudentCouncil/7.0/Vibhor-01.png"
+        },
+        {
+            "name": "Veer Prakash",
+            "rank": "Student Mentor, Design & IT",
+            "linkedinUrl": "https://www.linkedin.com/in/veer-prakash-8b3a431b2/",
+            "instagramUrl": "https://www.instagram.com/prakash_veer/?hl=en",
+            "imgUrl": "assets/images/StudentCouncil/7.0/Veer-01.png"
+        },
+        {
+            "name": "Utkarsh Shakya",
+            "rank": "Student Mentor, Design & IT",
+            "linkedinUrl": "https://www.linkedin.com/in/utkarsh-shakya/",
+            "instagramUrl": "https://www.instagram.com/utk.shakya10/?hl=en",
+            "imgUrl": "assets/images/StudentCouncil/7.0/Utkarsh-01.png"
+        },
+        {
+            "name": "Tanya Agarwal",
+            "imgUrl": "assets/images/StudentCouncil/7.0/Tanya-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/tanya-agarwal-0210161b6/",
+            "instagramUrl": "https://www.instagram.com/tanyaagarwal29/?hl=en",
+            "rank": "Head, Design & IT"
+          },
+          {
+            "name": "Monishka Singh",
+            "imgUrl": "assets/images/StudentCouncil/7.0/Monishka-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/monishka-singh-575771231",
+            "rank": "Head, Incubation Operation & Training",
+            "instagramUrl": null
+          },
+          {
+            "name": "Nimisha Singh",
+            "imgUrl": "assets/images/StudentCouncil/7.0/Nimisha-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/nimisha-singh-2281291a4",
+            "instagramUrl": "https://instagram.com/nims545?utm_medium=copy_link",
+            "rank": "Head, StartUp Idea Scout"
+          },
+          {
+            "name": "Rajmohan Kumar",
+            "imgUrl": "assets/images/StudentCouncil/7.0/Rajmohan-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/rajmohan-kumar-b2120a225",
+            "instagramUrl": "https://www.instagram.com/rajmohan_r_/",
+            "rank": "Genie"
+          },
+          {
+            "name": "Sahil Pandey",
+            "imgUrl": "assets/images/StudentCouncil/7.0/Sahil-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/sahil-pandey-a27175221",
+            "instagramUrl": "https://instagram.com/sahil__135?utm_medium=copy_link",
+            "rank": "Genie"
+          },
+          {
+            "name": "Aryan Dwivedi",
+            "imgUrl": "assets/images/StudentCouncil/7.0/Aryan-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/aryan-dwivedi-7126ba221",
+            "instagramUrl": "https://instagram.com/unfollowaryan?utm_medium=copy_link",
+            "rank": "Genie"
+          },
+          {
+            "name": "Harshit Bajpai",
+            "imgUrl": "assets/images/StudentCouncil/7.0/Harsh-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/harshit-bajpai-692895223",
+            "instagramUrl": "https://instagram.com/harshb4545?utm_medium=copy_link",
+            "rank": "Genie"
+          },
+          {
+            "name": "Aman Pandey",
+            "imgUrl": "assets/images/StudentCouncil/7.0/Aryan.png",
+            "linkedinUrl": "https://www.linkedin.com/in/aman-pandey-31376421b",
+            "instagramUrl": "https://instagram.com/aman_pandey_____?utm_medium=copy_link",
+            "rank": "Genie"
+          },
+          {
+            "name": "Love Khanna",
+            "imgUrl": "assets/images/StudentCouncil/7.0/Love-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/love-khanna-0b917b223",
+            "instagramUrl": "https://www.instagram.com/love.k1307/",
+            "rank": "Genie"
+          },
+          {
+            "name": "Sakshi Gupta",
+            "imgUrl": "assets/images/StudentCouncil/7.0/Sakshi-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/sakshi-gupta-64545a221",
+            "instagramUrl": "https://www.instagram.com/sakshi13_04/",
+            "rank": "Genie"
+          },
+          {
+            "name": "Yash Jaiswal",
+            "imgUrl": "assets/images/StudentCouncil/7.0/Yash-01.png",
+            "linkedinUrl": "https://www.linkedin.com/in/yash-jaiswal-646301211",
+            "instagramUrl": "https://www.instagram.com/yashj1308/",
+            "rank": "Genie"
+          }
+    ],
+    "9.0": [
+        {
+            "name": "Uday Gupta",
+            "rank": "President",
+            "imgUrl": "assets/images/StudentCouncil/9.0/Uday.png",
+            "linkedinUrl": "http://linkedin.com/in/udayy",
+            "instagramUrl": "https://www.instagram.com/belikeeuday/"
+        },
+        {
+            "name": "Animesh Gautam",
+            "rank": "Team Data Analysis & Event Reporting",
+            "imgUrl": "assets/images/StudentCouncil/9.0/Animesh.png",
+            "linkedinUrl": "https://www.linkedin.com/in/animesh-gautam-961421251/",
+            "instagramUrl": "https://www.instagram.com"
+        },
+        {
+            "name": "Hardik Gaur",
+            "rank": "Team Data Analysis & Event Reporting",
+            "imgUrl": "assets/images/StudentCouncil/9.0/hardik.png",
+            "linkedinUrl": "https://www.linkedin.com/in/",
+            "instagramUrl": "https://instagram.com/"
+        },
+        {
+            "name": "Divyansh Sharma",
+            "rank": "Team Corporate Relations",
+            "imgUrl": "assets/images/StudentCouncil/9.0/Divyansh.png",
+            "linkedinUrl": "https://www.linkedin.com/in/divyanshsharma99/",
+            "instagramUrl": "https://www.instagram.com/divyansh.994"
+        },
+        {
+            "name": "Drashya Kathuria",
+            "rank": "Team Corporate Relations",
+            "imgUrl": "assets/images/StudentCouncil/9.0/Drashya.png",
+            "linkedinUrl": "https://www.linkedin.com/in/drashyakathuria/",
+            "instagramUrl": "https://instagram.com/drashya.jpg"
+        },
+        {
+            "name": "Abhishek Chaudhary",
+            "rank": "Team Graphics & Design",
+            "imgUrl": "assets/images/StudentCouncil/9.0/Abhishek.png",
+            "linkedinUrl": "https://www.linkedin.com/in/abhishek-chaudhary-311806262/",
+            "instagramUrl": "https://www.instagram.com/abhishekkk_.21/"
+        },
+        {
+            "name": "Tanisha Agarwal",
+            "rank": "Team Media & Publicity",
+            "imgUrl": "assets/images/StudentCouncil/9.0/Tanisha.png",
+            "linkedinUrl": "https://www.linkedin.com/in/tanisha-agarwal-1aa694242/",
+            "instagramUrl": "https://instagram.com/tanyyy_sha"
+        },
+        {
+            "name": "Bhavya Goyal",
+            "rank": "Team Media & Publicity",
+            "imgUrl": "assets/images/StudentCouncil/9.0/Bhavya.png",
+            "linkedinUrl": "https://www.linkedin.com/in/bhavya-goyal-553886262/",
+            "instagramUrl": "https://www.instagram.com/bhavyaaaa___12/"
+        },
+        {
+            "name": "Rashika Tyagi",
+            "rank": "Team Media & Publicity",
+            "linkedinUrl": "https://www.linkedin.com/in/rashika-tyagi-499907256/",
+            "instagramUrl": "https://www.instagram.com/invites/contact/rashika_tyagi20",
+            "imgUrl": "assets/images/StudentCouncil/9.0/Rashika.png"
+        },
+        {
+            "name": "Sumit Pandey",
+            "rank": "Team Student Relations",
+            "linkedinUrl": "https://www.linkedin.com/in/sumit-pandey-161725251/",
+            "instagramUrl": "",
+            "imgUrl": "assets/images/StudentCouncil/9.0/Sumit.png"
+        },
+        {
+            "name": "Shivam Sharma",
+            "rank": "Team Events & Logistics",
+            "linkedinUrl": "https://www.linkedin.com/in/shivam-sharma-51830a259/",
+            "instagramUrl": "https://www.instagram.com/shivam__31_08/",
+            "imgUrl": "assets/images/StudentCouncil/9.0/Shivam.png"
+        },
+        {
+            "name": "Ansh Gaur",
+            "rank": "Team Events & Logistics",
+            "linkedinUrl": "https://www.linkedin.com/in/anshgaur/",
+            "instagramUrl": "https://instagram.com/anshgaur001",
+            "imgUrl": "assets/images/StudentCouncil/9.0/Ansh.png"
+        },
+        {
+            "name": "Agrima Gupta",
+            "rank": "Team Events & Logistics",
+            "linkedinUrl": "https://www.linkedin.com/in/agrima-gupta-a8971b240/",
+            "instagramUrl": "https://www.instagram.com/agrimagupta__/",
+            "imgUrl": "assets/images/StudentCouncil/9.0/Agrima.png"
+        },
+        {
+            "name": "Sakshi Sahu",
+            "rank": "Team Events & Logistics",
+            "linkedinUrl": "https://www.linkedin.com/in/sakshi-sahu-7a2357277/",
+            "instagramUrl": "https://www.instagram.com/sakshi5765i/",
+            "imgUrl": "assets/images/StudentCouncil/9.0/Sakshi.png"
+        },
+        {
+            "name": "Srajal Pratap",
+            "rank": "Team Events & Logistics",
+            "linkedinUrl": "",
+            "instagramUrl": "https://instagram.com/night_rider_0o7",
+            "imgUrl": "assets/images/StudentCouncil/9.0/srajal.png"
+        }
+    ]
+}
