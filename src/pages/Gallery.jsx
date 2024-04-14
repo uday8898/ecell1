@@ -29,7 +29,7 @@ export const Gallery = () => {
                 <div className="container" style={{ marginTop: "100px" }}>
 
                     <div className="row1">
-                        {Array.from({ length: 251 }, (_, index) => (
+                        {Array.from({ length: 9 }, (_, index) => (
                             <div className="column" key={index}>
                                 <div className="gal_item">
                                     <div className="overlay-gall" onClick={showFullImg}></div>
