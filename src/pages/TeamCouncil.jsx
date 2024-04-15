@@ -3,12 +3,18 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 import { Autoplay, Navigation } from "swiper/modules";
 import 'swiper/css';
 import 'swiper/css/navigation';
+import {useLoaderData} from 'react-router-dom'
+
 
 export const TeamCouncil = () => {
     const data = useLoaderData();
     const [activeSlider, setActiveSlider] = useState("1");
     const [councilText, setCouncilText] = useState("Meet E-Cell 1.0");
     useEffect(() => {
+        document.body.style.backgroundImage = "none";
+        document.getElementById("header").style.top = "0%"; 
+        document.getElementById("footer").style.display = "block"; 
+        
         const hash = window.location.hash;
         if (hash) {
             const splitHash = hash.split("-");

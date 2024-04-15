@@ -8,6 +8,7 @@ import { Footer } from './components/Footer';
 import { Home } from './pages/Home';
 import { Gallery } from './pages/Gallery';
 import { TeamCouncil } from './pages/TeamCouncil';
+import { Events } from './pages/Event';
 
 
 const NavbarWrapper = () => {
@@ -27,8 +28,7 @@ const router = createBrowserRouter([
     children: [
       { path: '/', element: <Home /> },
       { path: '/gallery', element: <Gallery /> },
-      {
-        path: '/councils', element: <TeamCouncil />,
+      { path: '/councils', element: <TeamCouncil />,
         loader: async ({ request, params }) => {
           return fetch(
             `assets/data/team.json`
@@ -36,6 +36,7 @@ const router = createBrowserRouter([
         }
 
       },
+      { path: '/events', element: <Events />}
     ],
     // errorElement: <NotFound />
   },

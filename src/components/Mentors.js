@@ -1,6 +1,6 @@
 export const Mentors = () => {
     return (
-        <section id="team" className="team section-bg">
+        <section id="mentor" className="team section-bg">
       <div className="container" data-aos="fade-up">
 
         <div className="section-title">

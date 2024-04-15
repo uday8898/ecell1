@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom';
 
 export const Team = () => {
     return (
-        <section id="pricing" className="pricing section-bg">
+        <section id="team" className="pricing section-bg">
             <div className="section-title">
                 <h2>Student Council</h2>
             </div>

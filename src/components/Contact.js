@@ -32,7 +32,7 @@ export const Contacts = () => {
                 <div className="info-box mt-4">
                   <i className="bx bx-phone-call"></i>
                   <h3>Call Us</h3>
-                  <p>+91 81717 90981</p>
+                  <p>+91 8791676980</p>
                 </div>
               </div>
             </div>
