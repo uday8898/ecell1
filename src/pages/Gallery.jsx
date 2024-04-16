@@ -17,6 +17,14 @@ export const Gallery = () => {
     }
 
 
+    useEffect(() => {
+        document.body.style.backgroundImage = "none";
+
+        document.getElementById("header").style.top = "0%";
+        document.getElementById("footer").style.display = "block";
+    }, [])
+
+
 
 
     return (
@@ -29,7 +37,7 @@ export const Gallery = () => {
                 <div className="container" style={{ marginTop: "100px" }}>
 
                     <div className="row1">
-                        {Array.from({ length: 9 }, (_, index) => (
+                        {Array.from({ length: 12 }, (_, index) => (
                             <div className="column" key={index}>
                                 <div className="gal_item">
                                     <div className="overlay-gall" onClick={showFullImg}></div>

@@ -174,9 +174,9 @@ h6 {
 }
 
 .ticket:hover {
-  border: 2px solid white;
-  color: white;
-  background: transparent;
+  border: 2px solid #000 !important;
+  color: #e86105 !important;
+  background: #000 !important;
 }
 
 /*--------------------------------------------------------------

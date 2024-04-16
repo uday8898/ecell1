@@ -23,7 +23,7 @@ export const Navbar = () => {
                         <li><a className="nav-link scrollto" href="#team">Team</a></li>
                         <li><a className="nav-link scrollto" href="#mentor">Mentors</a></li>
                         <li><a className="nav-link scrollto" href="#contact">Contact</a></li>
-                        <a href="" className="get-started-btn scrollto "><span style={{ marginRight: "25px" }}>E-Summit'24</span></a>
+                        <Link to={'/events'} className="get-started-btn scrollto "><span style={{ marginRight: "25px" }}>E-Summit'24</span></Link>
                     </ul>
                 </nav>
                     <input onClick={handleNavbar} type="checkbox" role="button" aria-label="Display the menu" className="menu"></input>

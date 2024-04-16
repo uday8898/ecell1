@@ -11,6 +11,10 @@ export const TeamCouncil = () => {
     const [activeSlider, setActiveSlider] = useState("1");
     const [councilText, setCouncilText] = useState("Meet E-Cell 1.0");
     useEffect(() => {
+        document.body.style.backgroundImage = "none";
+        document.getElementById("header").style.top = "0%"; 
+        document.getElementById("footer").style.display = "block"; 
+        
         const hash = window.location.hash;
         if (hash) {
             const splitHash = hash.split("-");
