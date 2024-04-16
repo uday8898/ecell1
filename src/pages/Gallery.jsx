@@ -41,7 +41,7 @@ export const Gallery = () => {
                             <div className="column" key={index}>
                                 <div className="gal_item">
                                     <div className="overlay-gall" onClick={showFullImg}></div>
-                                    < img src={`assets/images/gallery/${index + 1}.jpg`} alt="" />
+                                    < img src={`assets/images/gallery/${index + 1}.JPG`} alt="" />
                                 </div>
                             </div>
                         ))}
