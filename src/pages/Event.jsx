@@ -46,7 +46,7 @@ export const Events = () => {
 
                                     </div>
                                     <div className="member-info">
-                                        <a href='' target="_blank" className="get-started-btn scrollto ticket"><h6 style={{ fontWeight: "bolder", position: "relative", top: "5%", fontSize: "20px" }}>REGISTER</h6></a>
+                                        <a target="_blank" className="get-started-btn scrollto ticket"><h6 style={{ fontWeight: "bolder", position: "relative", top: "5%", fontSize: "20px" }}>REGISTER</h6></a>
                                     </div>
 
 
@@ -137,4 +137,3 @@ export const Events = () => {
         </>
     )
 }
-#https://forms.gle/XGXRAHMweStgKxrw7#
