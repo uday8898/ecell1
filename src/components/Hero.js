@@ -20,7 +20,7 @@ export const Hero = () => {
         <SwiperSlide style={{ backgroundColor: "#000000" }}>
           <img className="d-block w-100" src="assets/images/frontpage1.JPG" alt="First slide" style={{ opacity: "0.4", width: "100%" }} />
         </SwiperSlide>
-        <SwiperSlide style={{ backgroundColor: "#000000" }}>x
+        <SwiperSlide style={{ backgroundColor: "#000000" }}>
           <img className="d-block w-100" src="assets/images/frontpage5.JPG" alt="Second slide" style={{ opacity: "0.4", width: "100%" }} />
         </SwiperSlide>
         <SwiperSlide style={{ backgroundColor: "#000000" }}>
