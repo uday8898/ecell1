@@ -4,7 +4,7 @@ import 'swiper/css';
 
 export const Client = () => {
     return (
-        <section id="clients" className="clients">
+        <section id="partners" className="partners">
             <div className="container" data-aos="zoom-in">
 
                 <Swiper className="clients-slider align-items-center d-flex flex-column-reverse" loop={true}  breakpoints={{
