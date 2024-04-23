@@ -15,7 +15,7 @@ export const Navbar = () => {
                 <nav id="navbar" ref={ref} className="navbar order-last order-lg-0 py-0">
                     <ul>
                         <li><Link to={'/'} className="nav-link scrollto active" href="#hero">Home</Link></li>
-                        <li><a className="nav-link scrollto" href="#clients">Partners</a></li>
+                        <li><a className="nav-link scrollto" href="#partners">Partners</a></li>
                         <li><a className="nav-link scrollto" href="#about">About</a></li>
                         <li><a className="nav-link scrollto" href="#Genie">Genie</a></li>
                         <li><a className="nav-link scrollto " href="#gallery">Gallery</a></li>
