@@ -1,6 +1,6 @@
 export const Services = () => {
     return (
-        <section id="services" className="services section-bg ">
+        <section id="genie" className="genies section-bg ">
       <div className="container" data-aos="fade-up">
 
         <div className="section-title">
@@ -20,9 +20,8 @@ export const Services = () => {
           <div className="col-md-6 mt-4 mt-md-0">
             <div className="icon-box" data-aos="fade-up" data-aos-delay="200">
               <i className="bi bi-card-checklist"></i>
-              <h4><a href="">StartUp Launchpad</a></h4>
-              <p>StartUp LaunchPad was established at GLA University, Mathura with the aim of encouraging students to
-                start their own venture. </p>
+              <h4><a href="">SPARKL TBI</a></h4>
+              <p>StartUp Empowering Innovation and Entrepreneurship for Economic Growth and Technological Advancement </p>
             </div>
           </div>
           <div className="col-md-6 mt-4 mt-md-0">
@@ -52,7 +51,7 @@ export const Services = () => {
           <div className="col-md-6 mt-4 mt-md-0">
             <div className="icon-box" data-aos="fade-up" data-aos-delay="600">
               <i className="bi bi-calendar4-week"></i>
-              <h4><a href="https://e-conclave21.netlify.app">E-Conclave</a></h4>
+              <h4><a href="https://e-conclave21.netlify.app">E-Summit (Formerly E-Conclave)</a></h4>
               <p>The flagship event of E-Cell, GLAU, spans 3 days. It includes various events throughout the campus.It
                 contains the fascinating Talkshows, Competitions and workshops.</p>
             </div>
