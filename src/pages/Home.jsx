@@ -7,7 +7,7 @@ import { Gallery } from '../components/Gallery';
 import { Hero } from '../components/Hero';
 import { Mentors } from '../components/Mentors';
 import { Team } from '../components/Team';
-import { Services } from '../components/genie';
+import { Services } from '../components/Genie';
 import { Tabs } from '../components/Tabs';
 import { Testimonials } from '../components/Testimonials';
 import { useEffect } from 'react';
