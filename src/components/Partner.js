@@ -2,7 +2,7 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
 
 
-export const Client = () => {
+export const Partner = () => {
     return (
         <section id="partners" className="partners">
             <div className="container" data-aos="zoom-in">
