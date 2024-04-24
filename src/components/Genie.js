@@ -1,4 +1,4 @@
-export const Services = () => {
+export const Genie = () => {
     return (
         <section id="genie" className="genies section-bg ">
       <div className="container" data-aos="fade-up">
