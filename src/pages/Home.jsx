@@ -25,11 +25,11 @@ export const Home = () =>{
     <>
       <Hero />
       <main id="main">
-        <Client />
+        <Partner />
         <About />
         <Counter />
         <Tabs />
-        <Services />
+        <Genie />
         <Gallery />
         <Testimonials />
         <Team />
