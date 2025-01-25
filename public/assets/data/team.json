@@ -735,5 +735,140 @@
             "instagramUrl": "https://instagram.com/night_rider_0o7",
             "imgUrl": "assets/images/StudentCouncil/9.0/srajal.png"
         }
+    ],
+    "10.0": [
+        {
+            "name": "Uday Gupta",
+            "rank": "Student Mentor",
+            "imgUrl": "assets/images/StudentCouncil/10.0/Uday.png",
+            "linkedinUrl": "http://linkedin.com/in/udayy",
+            "instagramUrl": "https://www.instagram.com/belikeeuday/"
+        },
+        {
+            "name": "Animesh Gautam",
+            "rank": "President",
+            "imgUrl": "assets/images/StudentCouncil/10.0/Animesh.png",
+            "linkedinUrl": "https://www.linkedin.com/in/animesh-gautam-961421251/",
+            "instagramUrl": "https://www.instagram.com/wtf.animesh"
+        },
+        {
+            "name": "Tanisha Agarwal",
+            "rank": "Vice President (Networking)",
+            "imgUrl": "assets/images/StudentCouncil/10.0/Tanisha.png",
+            "linkedinUrl": "https://www.linkedin.com/in/tanisha-agarwal-1aa694242/",
+            "instagramUrl": "https://instagram.com/tanyyy_sha"
+        },
+        {
+            "name": "Shivam Sharma",
+            "rank": "Vice President (Operations)",
+            "imgUrl": "assets/images/StudentCouncil/10.0/Shivam.png",
+            "linkedinUrl": "https://www.linkedin.com/in/shivam-sharma-51830a259/",
+            "instagramUrl": "https://www.instagram.com/shivam__31_08/"
+        },
+        {
+            "name": "Anmol Agarwal",
+            "rank": "Team Operations",
+            "imgUrl": "assets/images/StudentCouncil/10.0/Anmol.png",
+            "linkedinUrl": "https://www.linkedin.com/in/anmol-agarwal-6ba471289",
+            "instagramUrl": "https://www.instagram.com/anmol_agarwal_1101"
+        },
+        {
+            "name": "Sumit Pandey",
+            "rank": "Synergy Coordinator",
+            "imgUrl": "assets/images/StudentCouncil/10.0/Sumit.png",
+            "linkedinUrl": "https://www.linkedin.com/in/sumit-pandey-161725251/",
+            "instagramUrl": "https://www.instagram.com/_sumitpandey_____"
+        },
+        {
+            "name": "Krishna Mittal",
+            "rank": "Team Web Develoment & IT",
+            "imgUrl": "assets/images/StudentCouncil/10.0/Krishna.png",
+            "linkedinUrl": "https://www.linkedin.com/in/krishna-mittal-8709b322a",
+            "instagramUrl": "https://www.instagram.com"
+        },  
+        {
+            "name": "Sajal Gupta",
+            "rank": "Team Startup Scout",
+            "imgUrl": "assets/images/StudentCouncil/10.0/Sajal.png",
+            "linkedinUrl": "https://www.linkedin.com/in/sajal-gupta-62912a298",
+            "instagramUrl": "https://www.instagram.com/fr.sajalll"
+        },
+        {
+            "name": "Radha Goel",
+            "rank": "Team Startup Scout",
+            "imgUrl": "assets/images/StudentCouncil/10.0/Radha.png",
+            "linkedinUrl": "www.linkedin.com/in/radha-g-9489b8264",
+            "instagramUrl": "https://www.instagram.com/radhagoel16/"
+        },
+        {
+            "name": "Rishi Prakash",
+            "rank": "Team Media & Publicity",
+            "imgUrl": "assets/images/StudentCouncil/10.0/Rishi.png",
+            "linkedinUrl": "https://www.linkedin.com/in/anshgaur/",
+            "instagramUrl": "https://instagram.com/anshgaur001"
+        },
+        {
+            "name": "Aman Chandra",
+            "rank": "Team Media & Publicity",
+            "imgUrl": "assets/images/StudentCouncil/10.0/Aman.png",
+            "linkedinUrl": "https://www.linkedin.com/in/rishi-prakash-22a861290",
+            "instagramUrl": "https://www.instagram.com/_rishi_3562"
+        },
+        {
+            "name": "Riya Tripathi",
+            "rank": "Team Media & Publicity",
+            "imgUrl": "assets/images/StudentCouncil/10.0/Riya.png",
+            "linkedinUrl": "https://www.linkedin.com/in/riya-tripathi-91ab5b294",
+            "instagramUrl": "https://instagram.com/_riya1129"
+        },
+        {
+            "name": "Somya Agrawal",
+            "rank": "Team Networking",
+            "imgUrl": "assets/images/StudentCouncil/10.0/Somya.png",
+            "linkedinUrl": "https://www.linkedin.com/in/somya-agrawal-14b49a272",
+            "instagramUrl": "https://www.instagram.com/sommyaaa_"
+        },
+        {
+            "name": "Tanishq Vashishtha",
+            "rank": "Team Design",
+            "imgUrl": "assets/images/StudentCouncil/10.0/Tanishq.png",
+            "linkedinUrl": "https://www.linkedin.com/in/tanishq-vashishtha-aa25b7302",
+            "instagramUrl": "https://www.instagram.com/_tanishq_.27"
+        },
+        {
+            "name": "Yanshi Agarwal",
+            "rank": "Team Design",
+            "imgUrl": "assets/images/StudentCouncil/10.0/Yanshi.png",
+            "linkedinUrl": "https://www.linkedin.com/in/yanshi-agrawal-1875b8302",
+            "instagramUrl": "https://instagram.com/night_rider_0o7"
+        },
+        {
+            "name": "Abhay Dwivedi",
+            "rank": "Team Data Analysis, MIS & Reporting",
+            "imgUrl": "assets/images/StudentCouncil/10.0/Abhay.png",
+            "linkedinUrl": "https://www.linkedin.com/in/abhay-kumar-dwivedi-9a6ba7295",
+            "instagramUrl": "https://www.instagram.com/akd22_fc"
+        },
+        {
+            "name": "Harsh Kushwaha",
+            "rank": "Team Data Analysis, MIS & Reporting",
+            "imgUrl": "assets/images/StudentCouncil/10.0/Harsh.png",
+            "linkedinUrl": "https://www.linkedin.com/in/harsh-kushwaha-3b2829291",
+            "instagramUrl": "https://www.instagram.com/the_man_underthe_hood"
+        },
+        {
+            "name": "Nishant Giri",
+            "rank": "Team Student Relations",
+            "imgUrl": "assets/images/StudentCouncil/10.0/Nishant.png",
+            "linkedinUrl": "https://www.linkedin.com/in/nishant-giri-2083a2309",
+            "instagramUrl": "https://www.instagram.com/ofc_ng75"
+        },
+        {
+            "name": "Shivansh Sharma",
+            "rank": "Team Student Relations",
+            "imgUrl": "assets/images/StudentCouncil/10.0/Shivansh.png",
+            "linkedinUrl": "https://www.linkedin.com/in/shivansh-sharma-180558294",
+            "instagramUrl": "https://www.instagram.com/_shivansh_sharma88"
+        }
     ]
 }

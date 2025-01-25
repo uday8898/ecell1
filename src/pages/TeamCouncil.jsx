@@ -59,6 +59,10 @@ export const TeamCouncil = () => {
                 setActiveSlider("9");
                 setCouncilText("Meet E-Cell 9.0");
                 break;
+            case '10':
+                setActiveSlider("10");
+                setCouncilText("Meet E-Cell 10.0");
+                break;
 
             default:
                 break;
@@ -71,14 +75,15 @@ export const TeamCouncil = () => {
         <>
             <nav id="council-nav" className="team-council order-last order-lg-0" style={{ marginTop: "8rem" }}>
                 <ul>
-                    <li><a onClick={() => { changeTeam('1') }} style={{ fontFamily: "Arial,Helvetica,sans-serif", cursor: "pointer" }} className={`${activeSlider == '1' && 'active'}`}>E-Cell 1.0</a></li>
+                    <li><a onClick={() => { changeTeam('1') }} style={{ fontFamily: "Arial, Helvetica,sans-serif", cursor: "pointer" }} className={`${activeSlider == '1' && 'active'}`}>E-Cell 1.0</a></li>
                     <li><a onClick={() => { changeTeam('2') }} style={{ fontFamily: "Arial, Helvetica, sans-serif", cursor: "pointer" }} className={`${activeSlider == '2' && 'active'}`}>E-Cell 2.0</a></li>
-                    <li><a onClick={() => { changeTeam('3') }} style={{ fontFamily: "Arial,Helvetica ,sans-serif", cursor: "pointer" }} className={`${activeSlider == '3' && 'active'}`}>E-Cell 3.0</a></li>
+                    <li><a onClick={() => { changeTeam('3') }} style={{ fontFamily: "Arial, Helvetica ,sans-serif", cursor: "pointer" }} className={`${activeSlider == '3' && 'active'}`}>E-Cell 3.0</a></li>
                     <li><a onClick={() => { changeTeam('4') }} style={{ fontFamily: "Arial, Helvetica ,sans-serif", cursor: "pointer" }} className={`${activeSlider == '4' && 'active'}`}>E-Cell 4.0</a></li>
                     <li><a onClick={() => { changeTeam('5') }} style={{ fontFamily: "Arial, Helvetica ,sans-serif", cursor: "pointer" }} className={`${activeSlider == '5' && 'active'}`}>E-Cell 5.0</a></li>
                     <li><a onClick={() => { changeTeam('6') }} style={{ fontFamily: "Arial, Helvetica ,sans-serif", cursor: "pointer" }} className={`${activeSlider == '6' && 'active'}`}>E-Cell 6.0</a></li>
                     <li><a onClick={() => { changeTeam('7') }} style={{ fontFamily: "Arial, Helvetica ,sans-serif", cursor: "pointer" }} className={`${activeSlider == '7' && 'active'}`}>E-Cell 7.0</a></li>
                     <li><a onClick={() => { changeTeam('9') }} style={{ fontFamily: "Arial, Helvetica ,sans-serif", cursor: "pointer" }} className={`${activeSlider == '9' && 'active'}`}>E-Cell 9.0</a></li>
+                    <li><a onClick={() => { changeTeam('10') }} style={{ fontFamily: "Arial, Helvetica ,sans-serif", cursor: "pointer" }} className={`${activeSlider == '10' && 'active'}`}>E-Cell 10.0</a></li>
                 </ul>
             </nav>
 
@@ -86,7 +91,7 @@ export const TeamCouncil = () => {
                 <div>
                     <div >
                         <div>
-                            <Swiper className="container ml-5 d-flex flex-column-reverse" data-aos="fade-up" navigation={false} loop={false} autoplay={{ delay: 2500 }} centeredSlides={true} modules={[Autoplay, Navigation]} breakpoints={{
+                            <Swiper className="container ml-5 d-flex flex-column-reverse" data-aos="fade-up" navigation={false} loop={false} autoplay={{ delay: 0, disableOnInteraction:false, pauseOnMouseEnter: false }} speed = {5000} centeredSlides={true} modules={[Autoplay, Navigation]} breakpoints={{
                                 320: {
                                     slidesPerView: 1,
                                     spaceBetween: 20

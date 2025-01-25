@@ -11,7 +11,7 @@ export const Team = () => {
             <div className="section-title">
                 <h2>Student Council</h2>
             </div>
-            <Swiper pagination={false} loop={true} autoplay={{ delay: 2500 }} spaceBetween={25} centeredSlides={true} modules={[Autoplay, Pagination]} breakpoints={{
+            <Swiper pagination={false} loop={true} autoplay={{ delay: 1000,}} spaceBetween={25} centeredSlides={true} modules={[Autoplay, Pagination]} breakpoints={{
                 320: {
                     slidesPerView: 1,
                     spaceBetween: 20
@@ -68,6 +68,12 @@ export const Team = () => {
                     style={{ position: "relative", top: "87%" }}>
                     <img src='assets/images/StudentCouncilActive-01.png' />
                     <span className='text-center team-link-btn'>Team Council 9.0</span>
+                </Link>
+                </SwiperSlide>
+                <SwiperSlide className="my-card"><Link to="/councils#council-10" className="scrollto team-link"
+                    style={{ position: "relative", top: "87%" }}>
+                    <img src='assets/images/StudentCouncilActive-01.png' />
+                    <span className='text-center team-link-btn'>Team Council 10.0</span>
                 </Link>
                 </SwiperSlide>
             </Swiper>

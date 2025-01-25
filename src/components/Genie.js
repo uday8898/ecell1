@@ -13,7 +13,7 @@ export const Genie = () => {
               <i className="bi bi-briefcase"></i>
               <h4><a href="https://www.linkedin.com/company/linkedinlocal-gla-university/">LinkedinLocal Mathura</a>
               </h4>
-              <p>LinkedinLocal Mathura is an initiative aimed at synergizing with some dynamic and eccentric people who
+              <p>Linked in local Mathura is an initiative aimed at synergizing with some dynamic and eccentric people who
                 are passionate about entrepreneurship, leadership and research.</p>
             </div>
           </div>
@@ -43,7 +43,7 @@ export const Genie = () => {
           <div className="col-md-6 mt-4 mt-md-0">
             <div className="icon-box" data-aos="fade-up" data-aos-delay="500">
               <i className="bi bi-brightness-high"></i>
-              <h4><a href="https://mohittiwari-cs18.github.io/TEDxGLAU_History/">TEDxGLAU</a></h4>
+              <h4><a href="https://www.tedxglau.com">TEDxGLAU</a></h4>
               <p>At the TEDxGLAU event, TEDTalks and live speakers combine to spark deep discussion and connection at
                 GLA University, Mathura.</p>
             </div>
