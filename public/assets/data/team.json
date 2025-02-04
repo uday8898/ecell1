@@ -781,7 +781,7 @@
         },
         {
             "name": "Krishna Mittal",
-            "rank": "Team Web Develoment & IT",
+            "rank": "Team Corporate Relations",
             "imgUrl": "assets/images/StudentCouncil/10.0/Krishna.png",
             "linkedinUrl": "https://www.linkedin.com/in/krishna-mittal-8709b322a",
             "instagramUrl": "https://www.instagram.com"
@@ -862,13 +862,6 @@
             "imgUrl": "assets/images/StudentCouncil/10.0/Nishant.png",
             "linkedinUrl": "https://www.linkedin.com/in/nishant-giri-2083a2309",
             "instagramUrl": "https://www.instagram.com/ofc_ng75"
-        },
-        {
-            "name": "Shivansh Sharma",
-            "rank": "Team Student Relations",
-            "imgUrl": "assets/images/StudentCouncil/10.0/Shivansh.png",
-            "linkedinUrl": "https://www.linkedin.com/in/shivansh-sharma-180558294",
-            "instagramUrl": "https://www.instagram.com/_shivansh_sharma88"
         }
     ]
 }
