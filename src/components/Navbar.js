@@ -1,6 +1,6 @@
 import { useRef } from "react"
 import { Link } from "react-router-dom";
-// import { HashLink } from react-router-hash-link;
+import { HashLink } from "react-router-hash-link";
 
 export const Navbar = () => {
     const ref = useRef(null);
@@ -15,8 +15,8 @@ export const Navbar = () => {
 
                 <nav id="navbar" ref={ref} className="navbar order-last order-lg-0 py-0">
                     <ul>
-                        <li><Link to={'/'} className="nav-link scrollto active" href="#hero">Home</Link></li>
-                        {/* <li><HashLink to="/#partners" className="nav-link scrollto active">Part</HashLink></li> */}
+                        {/* <li><Link to={'/'} className="nav-link scrollto active" href="#hero">Home</Link></li>
+                        <li><HashLink to="/#partners" className="nav-link scrollto active">Part</HashLink></li>
                         <li><a className="nav-link scrollto" href="#partners">Partners</a></li>
                         <li><a className="nav-link scrollto" href="#about">About</a></li>
                         <li><a className="nav-link scrollto" href="#genie">Genie</a></li>
@@ -24,8 +24,17 @@ export const Navbar = () => {
                         <li><a className="nav-link scrollto " href="#testimonials">StartUps</a></li>
                         <li><a className="nav-link scrollto" href="#team">Team</a></li>
                         <li><a className="nav-link scrollto" href="#mentor">Mentors</a></li>
-                        <li><a className="nav-link scrollto" href="#contact">Contact</a></li>
+                        <li><a className="nav-link scrollto" href="#contact">Contact</a></li> */}
                         {/* <Link to={'/events'} className="get-started-btn scrollto "><span style={{ marginRight: "25px" }}>E-Summit'24</span></Link> */}
+                        <li><HashLink to="/#hero" className="nav-link scrollto active">Home</HashLink></li>
+                        <li><HashLink to="/#partners" className="nav-link scrollto">Partners</HashLink></li>
+                        <li><HashLink to="/#about" className="nav-link scrollto">About</HashLink></li>
+                        <li><HashLink to="/#genie" className="nav-link scrollto">Genie</HashLink></li>
+                        <li><HashLink to="/#gallery" className="nav-link scrollto">Gallery</HashLink></li>
+                        <li><HashLink to="/#testimonials" className="nav-link scrollto">StartUps</HashLink></li>
+                        <li><HashLink to="/#team" className="nav-link scrollto">Team</HashLink></li>
+                        <li><HashLink to="/#mentor" className="nav-link scrollto">Mentors</HashLink></li>
+                        <li><HashLink to="/#contact" className="nav-link scrollto">Contact</HashLink></li>
                         <a href="https://tedxglau.com" target="_blank" rel="noopener noreferrer" style={{ backgroundColor: "#E62B1E", color: "black", fontWeight: "bold", padding: "5px 10px", borderRadius: "5px", textDecoration: "none", transition: "background-color 0.3s", marginLeft: "25px" }} onMouseEnter={(e) => e.target.style.backgroundColor = "#D9241A"} onMouseLeave={(e) => e.target.style.backgroundColor = "#E62B1E"}>TEDxGLAU</a>
 
 
